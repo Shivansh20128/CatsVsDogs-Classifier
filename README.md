@@ -26,4 +26,4 @@ git clone https://github.com/Shivansh20128/CatsVsDogs-Classifier.git
 # Source
 cat.jpg - https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dcat&psig=AOvVaw0brGyHODLzkMafF-gmVYIf&ust=1703341435033000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKDdl7ufo4MDFQAAAAAdAAAAABAE
 
-dog.jpeg - https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.britannica.com%2Fanimal%2Fdog&psig=AOvVaw2WoiiisWBVEp3R1kgF3wlf&ust=1703339481867000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOi4lcufo4MDFQAAAAAdAAAAABAD
+dog.jpeg - https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FList_of_most_popular_dog_breeds&psig=AOvVaw2WoiiisWBVEp3R1kgF3wlf&ust=1703339481867000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiL6qigo4MDFQAAAAAdAAAAABAI
