@@ -19,7 +19,7 @@ git clone https://github.com/Shivansh20128/CatsVsDogs-Classifier.git
 2. Download the dataset at the provided link. You will find two folders in the dataset, for training and testing. Put the both the training and testing set folders at the same location as the script file.
 1. Run the script code snippets one by one. This will help you better understand the flow of the code.
 1. It may happen that you face some errors in the import statements. In that case, kindly install the required module. For example, in case tensorflow module is not found, run the command "pip install tensorflow".
-1. The training part run 10 epochs, so it takes some time, depending on your system configuration, it may take from 30 mins to 2 hours. 
+1. The training part run 12 epochs, so it takes some time, depending on your system configuration, it may take from 1.5 hours to 2 hours. 
 1. At the end, you can see the model performance from the testing set. 
 1. The script also provides the option to test a custom image. Feel free to test any image. Two images are provided separatly for that purpose (dog.jpeg and cat.jpg).
 
